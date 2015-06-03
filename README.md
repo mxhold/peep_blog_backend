@@ -1,8 +1,5 @@
 # PeepBlogBackend
 
-To start your new Phoenix application:
+This is the backend for a simple Blog app using [Phoenix](http://phoenixframework.org).
 
-1. Install dependencies with `mix deps.get`
-2. Start Phoenix endpoint with `mix phoenix.server`
-
-Now you can visit `localhost:4000` from your browser.
+See [Build a Blog with Phoenix and Ember.js](http://maxwellholder.com/blog/build-a-blog-with-phoenix-and-ember) for more info.
